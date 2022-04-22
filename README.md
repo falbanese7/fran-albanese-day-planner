@@ -34,5 +34,5 @@ If the user would like to clear the schedule, they can click the "Clear Schedule
 
 ## Credits
 
-Code author - Francesco Albanese
-Finished application -
+- Code author - Francesco Albanese
+- Finished application - https://falbanese96.github.io/fran-albanese-day-planner/
